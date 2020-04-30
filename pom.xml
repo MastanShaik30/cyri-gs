@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cyri</groupId>
-	<artifactId>mobile</artifactId>
+	<artifactId>gameservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mobile</name>
+	<name>GameService</name>
 	<description>Can you run it for Mobiles</description>
 
 	<properties>
