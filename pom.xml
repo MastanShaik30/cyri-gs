@@ -12,7 +12,7 @@
 	<artifactId>gameservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GameService</name>
-	<description>Can you run it for Mobiles</description>
+	<description>Game logic Microservice</description>
 
 	<properties>
 		<java.version>1.8</java.version>
