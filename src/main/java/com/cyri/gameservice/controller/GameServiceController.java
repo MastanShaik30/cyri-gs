@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
-public class cyriController {
-	 private static final Logger logger = LogManager.getLogger(cyriController.class);
+public class GameServiceController {
+	 private static final Logger logger = LogManager.getLogger(GameServiceController.class);
 	 	
 	    @GetMapping("/welcome")
 	    public String welcome() {
